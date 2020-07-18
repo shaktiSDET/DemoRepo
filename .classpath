@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Demo/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/hasher/Downloads/selenium-server-standalone-3.0.1.jar"/>
+	<classpathentry kind="output" path="Demo/bin"/>
+</classpath>
